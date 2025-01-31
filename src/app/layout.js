@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-
+<meta name="google-site-verification" content="lvhYFk-hl5CJDrjAxP90ELTbko2PeRQNb80im5peJn0" />
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
 
         {children}
